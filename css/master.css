@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    text-align: center;
+    height: 50vh;
+    color: #ffffff;
+    background-color: #212f3c;
+    background-image: url("../img/backgrounds/graphy-dark.png");
+}
+
+
+
+.header h1{
+    font-size: 3em;
+    padding-top: 9%;
+}
+
+.header .btn{
+    margin-top: 20px;
+}
+
+.header .social{
+    margin-top: 20px;
+}
+
+.feature{
+    margin-bottom: 50px;
+}
+
+.feature p{
+    padding-top: 10px;
+}
+
